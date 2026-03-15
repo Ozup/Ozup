@@ -18,9 +18,10 @@ for simulations and data analysis.
 - Data analysis
 - Numerical simulations
 
-## Current Work
+## Research Experience
 
-Research on black holes and causal structure using Penrose diagrams.
+Undergraduate thesis on black hole physics and causal structure
+in general relativity, focusing on Penrose diagrams.
 
 ## Location
 
