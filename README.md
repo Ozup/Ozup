@@ -1,28 +1,33 @@
 # Samuel Giraldo
 
-Astronomer interested in black hole physics, general relativity and cosmology.  
-I work on theoretical astrophysics and scientific computing, using programming
-for simulations and data analysis.
+Astronomer and software developer focused on computational physics, backend development, and scientific computing.
 
-## Research Interests
+I build applications and tools using Python, FastAPI, PostgreSQL, and numerical methods for data analysis and simulations.
 
-- Black hole physics
-- General relativity
-- Cosmology
-- Computational astrophysics
+## Interests
 
-## Programming
+* Black hole physics
+* General relativity
+* Cosmology
+* Backend development
+* Scientific computing
+* Data analysis
 
-- Python
-- C / C++
-- Data analysis
-- Numerical simulations
+## Technologies
 
-## Research Experience
+* Python
+* FastAPI
+* PostgreSQL
+* SQLAlchemy
+* C / C++
+* Git & GitHub
 
-Undergraduate thesis on black hole physics and causal structure
-in general relativity, focusing on Penrose diagrams.
+## Current Projects
 
-## Location
+* Magic Inventory App (FastAPI + PostgreSQL)
+* Scientific simulations in Python
+* Computational astrophysics tools
 
-Medellín, Colombia
+## Research
+
+Undergraduate thesis focused on black hole physics and causal structure in general relativity using Penrose diagrams.
