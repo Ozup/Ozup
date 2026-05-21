@@ -24,9 +24,16 @@ I build applications and tools using Python, FastAPI, PostgreSQL, and numerical 
 
 ## Current Projects
 
-* Magic Inventory App (FastAPI + PostgreSQL)
+* Magic Inventory App — MTG collection and deck management platform with FastAPI, PostgreSQL, analytics, and deck statistics.
 * Scientific simulations in Python
 * Computational astrophysics tools
+
+## Currently Learning
+
+* Full-stack development
+* System design
+* Data visualization
+* Machine learning
 
 ## Research
 
