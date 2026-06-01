@@ -1,8 +1,10 @@
 # Samuel Giraldo
 
-Astronomy student and software developer focused on backend engineering, computational physics, and scientific computing.
+Astronomer and software developer focused on backend engineering, scientific computing, and technology-driven problem solving.
 
-Currently building full-stack applications using FastAPI, React, PostgreSQL, and modern web technologies, combining software engineering with scientific and analytical problem solving.
+My work combines the analytical rigor of physics and astronomy with modern software development. I enjoy building scalable systems, designing backend architectures, and creating products that solve real-world problems.
+
+Currently developing full-stack applications with FastAPI, React, TypeScript, and PostgreSQL while expanding my expertise in software architecture, system design, and AI-powered technologies.
 
 ---
 
@@ -11,11 +13,13 @@ Currently building full-stack applications using FastAPI, React, PostgreSQL, and
 * Black hole physics
 * General relativity
 * Cosmology
-* Backend development
-* Full-stack applications
+* Backend engineering
+* Full-stack development
 * Scientific computing
+* Artificial intelligence
 * Data analysis
 * System design
+* Entrepreneurship and technology startups
 
 ---
 
@@ -27,59 +31,72 @@ Currently building full-stack applications using FastAPI, React, PostgreSQL, and
 * FastAPI
 * PostgreSQL
 * SQLAlchemy
+* Alembic
 * REST APIs
 
 ### Frontend
 
 * React
 * TypeScript
+* JavaScript
+* HTML & CSS
 
 ### Programming & Tools
 
-* C / C++
+* C
+* C++
 * Git & GitHub
-* Alembic
 * Docker (learning)
+* Linux
 
 ---
 
-## Current Projects
+## Featured Project
 
-### Magic Inventory App
+### Magic Inventory
 
-MTG collection and deck management platform built with FastAPI, React, and PostgreSQL.
+A full-stack trading card collection platform built with FastAPI, React, and PostgreSQL.
 
-Features include:
+Key features:
 
 * Collection management
+* Album and binder system
 * Deck building
-* Advanced card search
+* Advanced filtering and sorting
+* Card quantity tracking
 * Print-specific autocomplete
-* Quantity tracking
-* Filtering and sorting
-* Collector-focused UX
+* Collection analytics
+* Collector-focused user experience
 
-Future roadmap:
+Planned features:
 
-* Authentication system
+* User authentication
 * Public profiles
+* Collection valuation
 * Deck analytics
-* Social features
-* Trade ecosystem
+* Trading ecosystem
+* Social and community features
 
 ---
 
 ## Research
 
-Undergraduate thesis focused on black hole physics and causal structure in general relativity using Penrose diagrams.
+Astronomer with research experience in black hole physics, spacetime structure, and causal diagrams in General Relativity, with particular interest in Penrose diagrams and the global properties of spacetime.
 
 ---
 
 ## Currently Learning
 
-* Full-stack architecture
+* Software architecture
 * System design
 * Scalable backend systems
-* Data visualization
+* Product development
 * Machine learning
-* Product-oriented software development
+* Data visualization
+* AI-assisted software engineering
+
+---
+
+## Philosophy
+
+I enjoy tackling complex problems, whether they come from physics, software engineering, or product development. My goal is to build technology that combines scientific rigor, practical utility, and excellent user experience.
