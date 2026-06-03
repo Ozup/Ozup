@@ -100,3 +100,10 @@ Astronomer with research experience in black hole physics, spacetime structure, 
 ## Philosophy
 
 I enjoy tackling complex problems, whether they come from physics, software engineering, or product development. My goal is to build technology that combines scientific rigor, practical utility, and excellent user experience.
+
+## Connect
+
+* LinkedIn: [https://www.linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/samuel-giraldo-builes-8b9b9930a/)
+* Email: [samuel.giraldob@udea.edu.co](mailto:samuel.giraldob@udea.edu.co)
+
+
