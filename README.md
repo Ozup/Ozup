@@ -59,14 +59,14 @@ A full-stack trading card collection platform built with FastAPI, React, and Pos
 
 Key features:
 
-* Collection management
-* Album and binder system
-* Deck building
-* Advanced filtering and sorting
-* Card quantity tracking
-* Print-specific autocomplete
-* Collection analytics
-* Collector-focused user experience
+* Album completion tracking
+* Deck and commander management
+* Binder organization
+* Foil and non-foil inventory tracking
+* Collection valuation using Scryfall pricing
+* Advanced card search and filtering
+* Set-based collection imports
+* Real-time collection analytics
 
 Planned features:
 
